@@ -1,0 +1,25 @@
+{
+    "title": "Regional ethnic diversity",
+    "publisher": "Department for Education",
+    "description": "The data measures the ethnic diversity of England and Wales by region and type of area, for example urban and rural.",
+    "landingPage": "https://www.ethnicity-facts-figures.service.gov.uk/uk-population-by-ethnicity/national-and-regional-populations/regional-ethnic-diversity/latest",
+    "datasetNotes": [
+        "On the landing page click 8. Download the data there are 3 CSV files all fles are required"
+    ],
+    "published": "2020-08-07",
+    "families": [
+        "Race Disparity"
+    ],
+    "extract": {
+        "source": "CSV",
+        "stage": "Documented"
+    },
+    "transform": {
+        "stage": [
+            "To Do"
+        ],
+        "airtable": "recgxxIS0FYDinOUi"
+    },
+    "sizingNotes": "3 CSV files",
+    "notes": ""
+}

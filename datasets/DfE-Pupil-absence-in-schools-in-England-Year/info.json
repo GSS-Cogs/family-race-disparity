@@ -1,0 +1,25 @@
+{
+    "title": "Pupil absence in schools in England [Year]",
+    "publisher": "Department for Education",
+    "description": "This release reports on pupil absence in primary and secondary schools in the x to x academic year.",
+    "landingPage": "https://www.gov.uk/government/collections/statistics-pupil-absence",
+    "datasetNotes": [
+        "On the  landing page  click on full year release and click on the latest release, this will open a new tab the data can be found under docments as a XLS, ODS  or CSV in a zip file "
+    ],
+    "published": "2020-03-26",
+    "families": [
+        "Race Disparity"
+    ],
+    "extract": {
+        "source": "CSV",
+        "stage": "Documented"
+    },
+    "transform": {
+        "stage": [
+            "To Do"
+        ],
+        "airtable": "recnx6CDguk5Jf8cC"
+    },
+    "sizingNotes": "Messy table structure, with a mixture of  % and numbers with footnotes",
+    "notes": ""
+}

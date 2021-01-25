@@ -1,0 +1,25 @@
+{
+    "title": "Child and Working Tax Credits statistics: finalised annual awards",
+    "publisher": "HM Revenue & Customs",
+    "description": "These statistics relate to Child and Working Tax Credits, and the breakdown of their distribution.",
+    "landingPage": "https://www.gov.uk/government/collections/personal-tax-credits-statistics",
+    "datasetNotes": [
+        "On the landing page scroll to national statistics and click on the latest  version link for Child and Working Tax Credits statistics: finalised annual awards this will open another window the data can be found under documents "
+    ],
+    "published": "2020-07-30",
+    "families": [
+        "Race Disparity"
+    ],
+    "extract": {
+        "source": "XLS, CSV, ODS",
+        "stage": "Documented"
+    },
+    "transform": {
+        "stage": [
+            "To Do"
+        ],
+        "airtable": "recPq7NdDz1zwcdlI"
+    },
+    "sizingNotes": "Different table structure with footnotes. also available as a Zip file containing CSV and Meta data",
+    "notes": "There is also an entry under towns and high strees at LSOA level for Child and Working Tax Credits."
+}

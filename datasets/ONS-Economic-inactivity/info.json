@@ -1,0 +1,25 @@
+{
+    "title": "Economic inactivity",
+    "publisher": "Office for National Statistics",
+    "description": "This data measures the rate of economic inactivity for different ethnic groups in England, Wales and Scotland.",
+    "landingPage": "https://www.ethnicity-facts-figures.service.gov.uk/work-pay-and-benefits/unemployment-and-economic-inactivity/economic-inactivity/latest",
+    "datasetNotes": [
+        "On the landing page, click on 12. Download the data within the Contents section"
+    ],
+    "published": "2020-01-23",
+    "families": [
+        "Race Disparity"
+    ],
+    "extract": {
+        "source": "CSV",
+        "stage": "Documented"
+    },
+    "transform": {
+        "stage": [
+            "To Do"
+        ],
+        "airtable": "recnMmmFUWIEieVUO"
+    },
+    "sizingNotes": "3 CSV files.",
+    "notes": "The 3 CSV files look similar in dimension content and may be able to be combined into one dataset.\nSource data for datasets derived from the Annual Population Survey."
+}

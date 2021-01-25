@@ -1,0 +1,25 @@
+{
+    "title": "Pupil progress between 11 and 16 years old (\u2018Progress 8\u2019)",
+    "publisher": "Department for Education",
+    "description": "This data measures how much progress students make between 11 and 16 years old. The data covers the academic year from September 2017 to July 2018.",
+    "landingPage": "https://www.ethnicity-facts-figures.service.gov.uk/education-skills-and-training/11-to-16-years-old/pupil-progress-progress-8-between-ages-11-and-16-key-stage-2-to-key-stage-4/latest",
+    "datasetNotes": [
+        "On the landing page, click on 14. Download the data within the Contents section"
+    ],
+    "published": "2019-11-22",
+    "families": [
+        "Race Disparity"
+    ],
+    "extract": {
+        "source": "CSV",
+        "stage": "Documented"
+    },
+    "transform": {
+        "stage": [
+            "To Do"
+        ],
+        "airtable": "recVZ9Z2GlMvHAPCh"
+    },
+    "sizingNotes": "2 CSV files.",
+    "notes": "The 2 CSV files look similar in dimension content and may be able to be combined into one dataset.\nSource data for datasets derived from datasets on landing page https://www.gov.uk/government/statistics/revised-gcse-and-equivalent-results-in-england-2016-to-2017 After discussion with DM (LP) decided to keep original landing page and use CSV files."
+}

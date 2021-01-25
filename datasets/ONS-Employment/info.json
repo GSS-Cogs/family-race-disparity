@@ -1,0 +1,25 @@
+{
+    "title": "Employment",
+    "publisher": "Office for National Statistics",
+    "description": "This data measures the number and percentage of people in employment in England, Wales and Scotland.",
+    "landingPage": "https://www.ethnicity-facts-figures.service.gov.uk/work-pay-and-benefits/employment/employment/latest",
+    "datasetNotes": [
+        "On the  landing page click 12. Download the data and then there are 4 csv files to download."
+    ],
+    "published": "2020-09-07",
+    "families": [
+        "Race Disparity"
+    ],
+    "extract": {
+        "source": "CSV",
+        "stage": "Documented"
+    },
+    "transform": {
+        "stage": [
+            "To Do"
+        ],
+        "airtable": "recbkSwsV31BwepTv"
+    },
+    "sizingNotes": "4 CSV files.",
+    "notes": ""
+}

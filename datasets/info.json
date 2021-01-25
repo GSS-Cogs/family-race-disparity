@@ -1,0 +1,13 @@
+{
+    "family": "Race Disparity",
+    "pipelines": [
+        "DfE-GCSE-results-Attainment-8",
+        "DfE-Pupil-absence-in-schools-in-England-Year",
+        "DfE-Pupil-progress-between-11-and-16-years-old-Progress-8",
+        "DfE-Regional-ethnic-diversity",
+        "HMRC-Child-and-Working-Tax-Credits-statistics-finalised-annual-awards",
+        "ONS-Economic-inactivity",
+        "ONS-Employment",
+        "ONS-Unemployment"
+    ]
+}

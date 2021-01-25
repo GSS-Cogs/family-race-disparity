@@ -1,0 +1,25 @@
+{
+    "title": "Unemployment",
+    "publisher": "Office for National Statistics",
+    "description": "The data measures the number and percentage of people in England, Scotland and Wales who are unemployed.",
+    "landingPage": "https://www.ethnicity-facts-figures.service.gov.uk/work-pay-and-benefits/unemployment-and-economic-inactivity/unemployment/latest",
+    "datasetNotes": [
+        "On the landing page, click on 12. Download the data within the Contents section"
+    ],
+    "published": "2020-09-30",
+    "families": [
+        "Race Disparity"
+    ],
+    "extract": {
+        "source": "CSV",
+        "stage": "Documented"
+    },
+    "transform": {
+        "stage": [
+            "To Do"
+        ],
+        "airtable": "rec5kl0FZhEPNa8VK"
+    },
+    "sizingNotes": "3 CSV files.",
+    "notes": "The 3 CSV files look similar in dimension content and may be able to be combined into one dataset.\nSource data for datasets derived from the Annual Population Survey."
+}
