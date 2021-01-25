@@ -1,5 +1,16 @@
 {
+    "$schema": "https://gss-cogs.github.io/family-schemas/pipelines-schema.json",
     "family": "Race Disparity",
+    "github": "https://github.com/GSS-Cogs/family-race-disparity",
+    "jenkins": {
+        "base": "https://ci.floop.org.uk",
+        "path": [
+            "GSS_data",
+            "race-disparity"
+        ]
+    },
+    "sparql": "https://staging.gss-data.org.uk/sparql",
+    "pmd": "https://staging.gss-data.org.uk",
     "pipelines": [
         "DfE-GCSE-results-Attainment-8",
         "DfE-Pupil-absence-in-schools-in-England-Year",
