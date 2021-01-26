@@ -18,7 +18,8 @@
         "stage": [
             "To Do"
         ],
-        "airtable": "recgxxIS0FYDinOUi"
+        "airtable": "recgxxIS0FYDinOUi",
+        "main_issue": 6
     },
     "sizingNotes": "3 CSV files",
     "notes": ""

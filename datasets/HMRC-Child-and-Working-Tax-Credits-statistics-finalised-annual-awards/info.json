@@ -18,7 +18,8 @@
         "stage": [
             "To Do"
         ],
-        "airtable": "recPq7NdDz1zwcdlI"
+        "airtable": "recPq7NdDz1zwcdlI",
+        "main_issue": 3
     },
     "sizingNotes": "Different table structure with footnotes. also available as a Zip file containing CSV and Meta data",
     "notes": "There is also an entry under towns and high strees at LSOA level for Child and Working Tax Credits."

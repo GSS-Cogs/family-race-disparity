@@ -18,7 +18,8 @@
         "stage": [
             "To Do"
         ],
-        "airtable": "recbkSwsV31BwepTv"
+        "airtable": "recbkSwsV31BwepTv",
+        "main_issue": 5
     },
     "sizingNotes": "4 CSV files.",
     "notes": ""

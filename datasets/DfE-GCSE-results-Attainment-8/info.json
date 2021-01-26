@@ -18,7 +18,8 @@
         "stage": [
             "To Do"
         ],
-        "airtable": "rec2BH5neZzC2nY4F"
+        "airtable": "rec2BH5neZzC2nY4F",
+        "main_issue": 1
     },
     "sizingNotes": "2 CSV files.",
     "notes": "The CSV files (national and local authority) look similar in dimension content and may be able to be combined into one dataset.\nSource data for datasets derived from datasets on landing page https://www.gov.uk/government/statistics/key-stage-4-and-multi-academy-trust-performance-2018-revised.\nAfter discussion with DM (LP) decided to keep original landing page and use CSV files."

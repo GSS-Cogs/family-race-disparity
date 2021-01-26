@@ -18,7 +18,8 @@
         "stage": [
             "To Do"
         ],
-        "airtable": "recnMmmFUWIEieVUO"
+        "airtable": "recnMmmFUWIEieVUO",
+        "main_issue": 7
     },
     "sizingNotes": "3 CSV files.",
     "notes": "The 3 CSV files look similar in dimension content and may be able to be combined into one dataset.\nSource data for datasets derived from the Annual Population Survey."

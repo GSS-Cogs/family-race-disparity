@@ -18,7 +18,8 @@
         "stage": [
             "To Do"
         ],
-        "airtable": "recnx6CDguk5Jf8cC"
+        "airtable": "recnx6CDguk5Jf8cC",
+        "main_issue": 8
     },
     "sizingNotes": "Messy table structure, with a mixture of  % and numbers with footnotes",
     "notes": ""
